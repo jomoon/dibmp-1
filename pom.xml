@@ -482,7 +482,7 @@
 		<module>dibmp-util</module>
 		<module>dibmp-service-member</module>
 		<module>dibmp-api</module>
-		<module>dibmp-web</module>
+		<module>dibmp-web</module> 
 		<module>dibmp-test-service</module>
     <module>dibmp-service-market</module>
     <module>dibmp-service-sale</module>
